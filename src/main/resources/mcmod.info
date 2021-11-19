@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mackmod",
+  "name": "MackMod",
+  "description": "hause's attempt at following stupitdogs client tutorial (hes not very stupid) 1.12.2 anarchy client btw",
+  "version": "v0.1",
+  "mcversion": "[1.12.2]",
+  "url": "bigrat.monster",
+  "updateUrl": "",
+  "authorList": ["hausemasterissue"],
+  "credits": "stupitdog for his based tutorial",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,10 @@
+{
+"required": true,
+"compatibilityLevel": "JAVA_8",
+"package": "dev.hause.mackmod.mixin.mixins",
+"refmap": "mixins.mackmod.refmap.json",
+"mixins": [
+	"MixinGuiMainMenu"
+	"MixinNetworkManager"
+]
+}
